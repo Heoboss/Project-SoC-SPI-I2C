@@ -114,6 +114,10 @@ C 코드에서 하드웨어를 제어하기 위해 `0x44A00000` 주소에 매핑
 
 > **[251117 SoC SPI I2C Project 발표영상 보러가기](https://youtu.be/cCWpX2R9Byw?si=hlOXXxh52vAYf8OK)**
 
+[![jump game color version](https://img.youtube.com/vi/XsyLA-XPTDM/0.jpg)](https://youtu.be/XsyLA-XPTDM?)
+
+> **[color version 영상 보러가기](https://youtu.be/XsyLA-XPTDM?si=hgZedqSBGVPs583t)**
+
 ---
 
 - **Author**: 허현강 (Harman 2기)
